@@ -7,7 +7,7 @@
 - 克隆项目
 
 ```
-git clone
+git clone git@github.com:maturest/it-tools.git
 ```
     
 - 安装依赖
